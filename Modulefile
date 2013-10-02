@@ -1,0 +1,7 @@
+name    'mosen-gatekeeper'
+version '0.1.0'
+source  'https://github.com/mosen/puppet-gatekeeper.git'
+author  'mosen'
+license 'Apache License, Version 2.0'
+summary 'Manage gatekeeper settings in OSX'
+description 'Manage gatekeeper settings in OSX via spctl'
