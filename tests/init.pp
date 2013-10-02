@@ -1,0 +1,3 @@
+gatekeeper { "master":
+  enable => false,
+}
